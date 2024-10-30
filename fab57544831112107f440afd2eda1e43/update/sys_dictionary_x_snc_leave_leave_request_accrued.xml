@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-12 12:45:34</sys_created_on>
-        <sys_id>8e187508831112107f440afd2eda1ea1</sys_id>
         <sys_name>Accrued</sys_name>
         <sys_package display_value="Leave Management System" source="x_snc_leave">fab57544831112107f440afd2eda1e43</sys_package>
         <sys_policy/>
